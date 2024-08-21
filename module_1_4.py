@@ -5,3 +5,8 @@ print(my_string. lower())
 print(my_string[0])
 print(my_string[-1])
 print(my_string.replace(' ', ''))
+name = 'Какое задание'
+print(name)
+name = input()
+print(len(name))
+
