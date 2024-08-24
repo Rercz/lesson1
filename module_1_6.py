@@ -14,5 +14,3 @@ my_set.add(55)
 print(my_set)
 my_set.discard('Иосиф')
 print(my_set)
-
-
